@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe.config
+C:\Users\User\source\repos\GradingSystem\GradingSystem\bin\Debug\GradingSystem.exe
+C:\Users\User\source\repos\GradingSystem\GradingSystem\bin\Debug\GradingSystem.pdb
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.Form1.resources
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.Login.resources
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.Properties.Resources.resources
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.exe
+C:\Users\User\source\repos\GradingSystem\GradingSystem\obj\Debug\GradingSystem.pdb
